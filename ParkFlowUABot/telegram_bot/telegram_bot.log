@@ -1,0 +1,10 @@
+2025-06-01 23:24:53.851 | INFO     | telegram_bot.logger:<module>:4 - Логер Telegram-бота ініціалізовано
+2025-06-01 23:24:53.852 | INFO     | telegram_bot:<module>:3 - Ініціалізація Telegram-бота
+2025-06-01 23:24:53.861 | INFO     | telegram_bot.config:<module>:10 - Завантажено конфігурацію Telegram-бота
+2025-06-01 23:24:53.861 | DEBUG    | telegram_bot.config:<module>:11 - API_BASE_URL = http://localhost:5000/api
+2025-06-01 23:24:53.862 | DEBUG    | telegram_bot.config:<module>:12 - BOT_TOKEN = 7531882712:AAEQGdMV4BxNhdXzVDx3LLv3Oj0avJjkVNo
+2025-06-01 23:24:53.864 | INFO     | __main__:main:7 - Запуск Telegram-бота...
+2025-06-01 23:24:57.448 | INFO     | __main__:main:14 - Бот очікує команди...
+2025-06-01 23:25:06.398 | INFO     | telegram_bot.handlers:start:6 - Команда /start від користувача 642204791
+2025-06-01 23:25:24.226 | INFO     | telegram_bot.handlers:help_command:10 - Команда /help від користувача 642204791
+2025-06-01 23:28:42.935 | INFO     | telegram_bot.handlers:start:6 - Команда /start від користувача 642204791
